@@ -20,6 +20,6 @@ min_version = "0.73.0"
 
 # If porting an existing theme
 [original]
-  name = "ʕ•ᴥ•ʔ Bear Blog"
+  name = "Bear Blog"
   homepage = "https://bearblog.dev"
   repo = "https://github.com/HermanMartinus/bearblog"
